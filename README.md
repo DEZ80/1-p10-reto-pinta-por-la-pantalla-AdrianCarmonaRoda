@@ -33,7 +33,7 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/Columna5.PNG)
+![Actividad 1](/EntreLetras.PNG)
 ![Actividad 2](/Debajo3Letras.PNG)
-![Actividad 3](/EntreLetras.PNG)
-![Actividad 4](/EntreLetras.PNG)
+![Actividad 3](/Columna5.PNG)
+![Actividad 4](/3Columnas.PNG)
